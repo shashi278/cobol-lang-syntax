@@ -12,13 +12,10 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/shashi278/cobol-lang-syntax.git"
     },
     "categories": [
         "Programming Languages"
-    ],
-    "activationEvents": [
-        "onLanguage:COBOL"
     ],
     "contributes": {
         "languages": [{
