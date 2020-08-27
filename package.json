@@ -1,0 +1,40 @@
+{
+    "name": "cobol-lang-syntax",
+    "displayName": "Cobol-Lang-Syntax",
+    "description": "Syntax Highlighting for COBOL Language",
+    "version": "0.0.1",
+    "author": "Shashi Ranjan",
+    "license": "MIT",
+    "preview": false,
+    "publisher": "shashi278",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "activationEvents": [
+        "onLanguage:COBOL"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "cobol",
+            "aliases": ["COBOL", "cobol"],
+            "extensions": [".cbl",".cob",".cpy"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "cobol",
+            "scopeName": "source.cobol",
+            "path": "./syntaxes/cobol.tmLanguage.json",
+            "embeddedLanguages": {
+                "meta.embedded.block.sql": "sql",
+                "meta.embedded.block.html": "html"
+            }
+        }]
+    }
+}
