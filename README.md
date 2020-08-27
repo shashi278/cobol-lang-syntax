@@ -11,12 +11,12 @@ COBOL-Lang-Syntax provides the following COBOL syntax related features:
 
 The extension enables syntax highlighting for COBOL code.
 
-![Files-Cobol](https://github.com/shashi278/cobol-lang-syntax/blob/master/screenshots/files_cobol.png)
+![Files-Cobol](https://raw.githubusercontent.com/shashi278/cobol-lang-syntax/master/screenshots/files_cobol.png)
 
 ### Syntax Coloring
 
 Contrasting colors are used in displayed code for ease of identifying and distinguishing keywords, variables, and paragraphs.
 
-![Loops-Cobol](https://github.com/shashi278/cobol-lang-syntax/blob/master/screenshots/loops_cobol.png)
-![Strings-Cobol](https://github.com/shashi278/cobol-lang-syntax/blob/master/screenshots/strings_cobol.png)
+![Loops-Cobol](https://raw.githubusercontent.com/shashi278/cobol-lang-syntax/master/screenshots/loops_cobol.png)
+![Strings-Cobol](https://raw.githubusercontent.com/shashi278/cobol-lang-syntax/master/screenshots/strings_cobol.png)
 

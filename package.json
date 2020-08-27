@@ -2,7 +2,7 @@
     "name": "cobol-lang-syntax",
     "displayName": "Cobol-Lang-Syntax",
     "description": "Syntax Highlighting for COBOL Language",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "author": "Shashi Ranjan",
     "license": "MIT",
     "preview": false,
